@@ -256,12 +256,6 @@ input[type="range"]:focus{
   width:10px;
   margin:10px;
 }
- .sliders{
-  display:flex;
-  align-items: center;
-  justify-content:left;
-  flex-direction:column;
-}
 .slider[type="range"]{
   -webkit-appearance:none;
   display: block;
