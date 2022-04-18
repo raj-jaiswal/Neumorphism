@@ -1,4 +1,4 @@
-# Neuromorphism-
+# Neuromorphism
 A CSS based Neuromorphism design template
 
 Its a template that includes neuromorphism designs for 
